@@ -1,0 +1,8 @@
+SPRAWOZDANIE 1 (3.11.2020)
+
+*Na dzień dzisiejszy wykonana została 1 mapa. Z darmowych assetów dodałem tekstury podłoża oraz obiekty otoczenia takie jak drzewa
+oraz domki.
+
+*Dodatkowo stworzyłem już podstawy przeciwników (na razie są to kulki które przemieszczają się do celu po określonej trasie).
+Są jeszcze z tym problemy- mianowicie często na zakrętach przeciwnicy zatrzymują sie w miejscu - czasami ruszają dalej, czasami
+stoją do końca. Postaram sie wyeliminować ten problem oraz stworzyć pierwszą wieżyczkę w ciągu następnych dwóch tygodni.
