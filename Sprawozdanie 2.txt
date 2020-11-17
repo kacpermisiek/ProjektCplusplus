@@ -1,0 +1,7 @@
+*Dodane zostały dwa rodzaje wieżyczek (High Range oraz Low Range)
+*Dodano funkcje namierzająca przeciwników
+*Dodano funkcje strzelania do przeciwników
+*Przeciwnicy maja punkty zdrowia, które zmniejszają się przy strzelaniu, gdy wartość ta jest zerowa, przeciwnik jest usuwany
+*Ulepszenie wizualne mapy
+
+W górnym prawym rogu pojawia się wartość punktów zdrowia przeciwnika oraz komunikat o przegranej grze.
