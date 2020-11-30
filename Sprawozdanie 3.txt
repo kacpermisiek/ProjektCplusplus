@@ -1,0 +1,13 @@
+Sprawozdanie 3 (na dzień 30.11.2020r.)
+
+Przez ostatnie 2 tygodnie głównie zająłem się częścią backendową co zajęło dużo czasu.
+Jednakże efekty są zauważalne - dodałem między innymi:
+
+- Pasek życia przeciwników
+- Generator fal(funkcja, dzięki której przeciwnicy tworzeni są w czasie rzeczywistym, możemy określić ilość fal oraz ilość przeciwników w każdej z fal)
+- Menu wyboru wieżyczek (Teraz wieżyczki nie są od początku gry na mapie- gracz tworzy je w czasie rzeczywistym, może je umiejscowić w 5 miejscach mapy)
+- Dodano ograniczenie tworzenia wieżyczek (gracz posiada "energie" ktora jest wykorzystywana do budowania wieżyczek)
+- Jeżeli energia spadnie do zera, wieżyczki strzelają dwukrotnie wolniej
+- Dodano nowa wieżyczke: Generator. Nie strzela pociskami, jednak generuje energie, dzieki ktorej mozemy stawiac inne wiezyczki
+
+Nastepne 2 tygodnie przeznacze na wyglad przeciwnikow oraz warunek koncowy gry.
