@@ -1,0 +1,11 @@
+Sprawozdanie 3 (na dzień 15.12.2020r)
+
+Ostatnie dwa tygodnie przeznaczyłem na poprawę wizualną gry:
+
+*dodany darmowy asset InfinityBladeAdversaries, dzieki ktoremu uzyskalem postacie oraz animacje przeciwnikow
+*dodany darmowy asset FX Variety Pack, dzieki ktorym uzyskalem wyglad oraz animacje pocisku
+*Dodałem warunek końcowy gry, pojawia się obraz "wygrana" lub "porazka" z naszymi statystykami
+*Poprawiłem błąd, który opisałem w jednym z commitów (wieżyczki strzelały dwukrotnie wolniej nawet gdy nasza energia była spowrotem wieksza od zera
+*Dodałem drugą mapę
+
+Na następne dwa tygodnie planuje zbudować proste menu gry.
