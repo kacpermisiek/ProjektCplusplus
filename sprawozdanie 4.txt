@@ -7,5 +7,6 @@ Ostatnie dwa tygodnie przeznaczyłem na poprawę wizualną gry:
 *Dodałem warunek końcowy gry, pojawia się obraz "wygrana" lub "porazka" z naszymi statystykami
 *Poprawiłem błąd, który opisałem w jednym z commitów (wieżyczki strzelały dwukrotnie wolniej nawet gdy nasza energia była spowrotem wieksza od zera
 *Dodałem drugą mapę
+*Dodałem animacje odliczania na początku gry
 
 Na następne dwa tygodnie planuje zbudować proste menu gry.
