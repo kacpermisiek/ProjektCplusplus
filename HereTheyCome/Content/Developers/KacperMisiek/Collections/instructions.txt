@@ -1,0 +1,13 @@
+Twoim zadaniem jest wyeliminowanie wszystkich wrogów, zanim dotrą do bramy
+Walutą w tej grze jest energia. To za nią możesz kupić wieżyczki niezbędne do wyeliminowania przeciwników.
+UWAGA: Jeśli nie będziesz miał energii twoje wieżyczki będą strzelały dwukrotnie wolniej!
+
+Energię możesz generować dzięki wieżyczce generator - nie strzela, lecz jest niezbędna do wygrania.
+
+Oprócz tego masz do dyspozycji dwie wieżyczki:
+*Low Range - to wieżyczka tańsza wieżyczka o mniejszym zasięgu oraz zadająca mniejsze obrażenia
+*High Range - to wieżyczka droższa o większym zasięgu oraz zadająca większe obrażenia
+
+Aby utworzyć wieżyczkę kliknij na czerwony plusik w szarym kwadracie i wybierz typ wieżyczki.
+
+Sterowanie odbywa się za pomocą myszki, aby wyjść do głównego menu - kliknij przycisk F
